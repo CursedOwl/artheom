@@ -1,0 +1,15 @@
+{
+  "name": "botxp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botXP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-economy": "^1.1.6",
+    "discord.js": "^11.5.1"
+  }
+}
