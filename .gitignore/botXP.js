@@ -177,5 +177,4 @@ bot.on("message", async msg => {
 	console.log(XP);
 	fs.writeFile('./XP.json', JSON.stringify(XP), console.error);
 
-});
-bot.login("NTg4Mzg1NjQyNTk4MzY3MjQz.XQEYCw.R63VivQV-ft_ApNC7mh4kIgdWlY");
+}
